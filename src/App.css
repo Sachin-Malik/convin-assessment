@@ -8,6 +8,25 @@
   background-color: #e0ebe8;
 }
 
+.select-user-card {
+  background: url(../public/select-user.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 300px;
+}
+
+.fetching-data {
+  background: url(../public/request-processing.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 300px;
+}
+
+.user-card-dashboard {
+  font-family: "Dosis", sans-serif;
+  font-weight: 300;
+}
+
 .user-button {
   cursor: pointer;
   background-color: #1e836c;
@@ -17,9 +36,9 @@
 
 .user-button:active {
   cursor: pointer;
-  background-color: #1e836c;
-  color: #ffffff;
+  background-color: #ffffff;
   border: 1px solid #1e836c;
+  color: #1e836c;
 }
 
 .user-button:hover {

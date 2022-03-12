@@ -4,7 +4,8 @@ function Loading() {
   return (
     <div className='row justify-content-center'>
        <div className='col-8 text-center'>
-          Select a User From User List to get Details
+          <p>Fetching Your Data...</p>
+          <div className='fetching-data'></div>
        </div>
     </div>
   )

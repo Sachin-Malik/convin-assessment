@@ -1,9 +1,8 @@
 
 import { Provider } from 'react-redux';
 import './App.css';
-import Dashboard from './components/Dashboard';
 import Header from './components/Header'
-import UserDetail from './components/UserDetail';
+import DashBoard from './components/DashBoard';
 
 import store from './redux/store';
 
@@ -14,8 +13,7 @@ function App() {
     <Provider store={store}>
       <div className="container">
          <Header />
-         <Dashboard />
-         <UserDetail />
+         <DashBoard />
       </div>
     </Provider>
   );
