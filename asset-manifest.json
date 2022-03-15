@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/convin-assessment/static/css/main.cb7f8b96.css",
-    "main.js": "/convin-assessment/static/js/main.9bc50535.js",
+    "main.js": "/convin-assessment/static/js/main.23591096.js",
     "static/media/select-user.svg": "/convin-assessment/static/media/select-user.f28d82b0d40721247777.svg",
     "static/media/request-processing.svg": "/convin-assessment/static/media/request-processing.a6a3bb78d3b3282fb2cb.svg",
     "index.html": "/convin-assessment/index.html",
     "main.cb7f8b96.css.map": "/convin-assessment/static/css/main.cb7f8b96.css.map",
-    "main.9bc50535.js.map": "/convin-assessment/static/js/main.9bc50535.js.map"
+    "main.23591096.js.map": "/convin-assessment/static/js/main.23591096.js.map"
   },
   "entrypoints": [
     "static/css/main.cb7f8b96.css",
-    "static/js/main.9bc50535.js"
+    "static/js/main.23591096.js"
   ]
 }
